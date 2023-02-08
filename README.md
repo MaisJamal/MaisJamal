@@ -6,8 +6,8 @@
 </p>
 
 - 👋 Hi, I’m @MaisJamal
-- 👀 I’m interested in Robotics, Autonomous driving and Task planning algorithms.
-- 🌱 I’m currently a Ph.D. candidate 🎓 and Behavior Planning Engineer.
+- 👀 I’m interested in Robotics, Autonomous driving, Behavior Planning and Task planning algorithms.
+- 🌱 I’m currently a Ph.D. candidate 🎓 and Robotics Engineer.
 - 📫 mayssjamal@gmail.com
 
 ### My stack! :dango:
