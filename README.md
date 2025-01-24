@@ -7,7 +7,7 @@
 
 - 👋 Hi, I’m @MaisJamal
 - 👀 I’m interested in Robotics, Artificial Intelligence, Autonomous driving, Behavior Planning and Task planning algorithms.
-- 🌱 I'm a Behavior Planning engineer for Autonomous Systems, and I have a Ph.D. in Computer science 🎓. My PhD thesis was "Development and Research of Adaptive Planning Algorithms and Methods for Autonomous Vehicle Maneuvers."
+- 🌱 I'm a Behavior Planning engineer for Autonomous Systems, and I have a Ph.D. in Artificial Intelligence and Machine Learning 🎓. My PhD thesis was "Development and Research of Adaptive Planning Algorithms and Methods for Autonomous Vehicle Maneuvers."
 - 📫 mayssjamal@gmail.com
 
 ### My stack! 
