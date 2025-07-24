@@ -5,10 +5,20 @@
     <a href="https://orcid.org/0000-0002-9662-0858" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
 </p>
 
-- 👋 Hi, I’m @MaisJamal
-- 👀 I’m interested in Robotics, Artificial Intelligence, Autonomous driving, Behavior Planning and Task planning algorithms.
-- 🌱 I'm a Behavior Planning engineer for Autonomous Systems, and I have a Ph.D. in Artificial Intelligence and Machine Learning 🎓. My PhD thesis was "Development and Research of Adaptive Planning Algorithms and Methods for Autonomous Vehicle Maneuvers."
-- 📫 mayssjamal@gmail.com
+# 👋 Hi, I'm Mais Jamal
+
+🚗 Robotics Software Engineer | PhD in AI & Machine Learning  
+📍 Based in Europe | Open to Research & Industry Roles
+
+I specialize in autonomous vehicle planning, behavior modeling, reinforcement learning, and trajectory prediction. My work includes:
+
+- 🧠 FFStreams++: Fast heuristic planning for real-time AVs
+- 🤖 Behavior Trees in Apollo using GP
+- 🛣 CommonRoad simulation and motion benchmarking
+
+🔧 Languages: C++, Python | 📦 Frameworks: ROS, CyberRT, Apollo
+
+📬 Let's connect: [LinkedIn](https://www.linkedin.com/in/maisjamal/) 
 
 ### My stack! 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
