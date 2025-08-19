@@ -10,13 +10,13 @@
 🚗 Robotics Software Engineer | PhD in AI & Machine Learning  
 📍 Based in Europe | Open to Research & Industry Roles
 
-I specialize in autonomous vehicle planning, behavior modeling, reinforcement learning, and trajectory prediction. My work includes:
+I specialize in mobile robots and autonomous vehicle planning, behavior modeling, reinforcement learning, and trajectory prediction. My work includes:
 
 - 🧠 FFStreams++: Fast heuristic planning for real-time AVs
 - 🤖 Behavior Trees in Apollo using GP
 - 🛣 CommonRoad simulation and motion benchmarking
 
-🔧 Languages: C++, Python | 📦 Frameworks: ROS, CyberRT, Apollo
+🔧 Languages: C++, Python | 📦 Frameworks: ROS/ROS2, CyberRT, Apollo
 
 📬 Let's connect: [LinkedIn](https://www.linkedin.com/in/maisjamal/) 
 
