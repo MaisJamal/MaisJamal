@@ -8,7 +8,7 @@
 # 👋 Hi, I'm Mais Jamal
 
 🚗 Robotics Engineer | PhD in AI & Machine Learning  
-📍 Based in Europe | Open to Research & Industry Roles
+📍 Based in Moscow | Open to Research & Industry Roles
 
 I specialize in mobile robots and autonomous vehicle planning, behavior modeling, reinforcement learning, and trajectory prediction. My work includes:
 
