@@ -9,6 +9,7 @@
 
 🚗 Robotics Engineer | PhD in AI & Machine Learning  
 📍 Based in Moscow | Open to Research & Industry Roles
+🌐 Personal website: https://maisjamal.github.io/
 
 I specialize in mobile robots and autonomous vehicle planning, behavior modeling, reinforcement learning, and trajectory prediction. My work includes:
 
